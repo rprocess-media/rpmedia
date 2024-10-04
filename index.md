@@ -1,4 +1,4 @@
-# Contact Support
+# Rapture Process
 
 If you need to reach us, please send us an email.
 
